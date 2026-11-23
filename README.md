@@ -1,4 +1,4 @@
-# 👋 Hi there
+# Hi there
 
 I'm **Savreet Kaur**, a Computer Science undergrad at **Guru Nanak Dev Engineering College (2023 – 2027)**, building AI-powered applications with a focus on **Generative AI, LLMs and Agentic AI**.
 
@@ -10,11 +10,11 @@ I'm currently looking for a **6-month internship** and **full-time opportunities
 
 I enjoy building practical AI applications, from RAG pipelines to AI agents and multi-agent systems, and shipping them with clean APIs and simple, usable interfaces.
 
-- 🎓 B.Tech CSE · Guru Nanak Dev Engineering College · 2023 – 2027
-- 🤖 Interested in: Generative AI · LLMs · RAG · AI Agents · Multi-Agent Systems
+- 🎓 B.Tech CSE · 2023 – 2027
+- 🤖 Interested in: Generative AI · LLMs · RAG · AI Agents · Multi-Agent Systems · Machine Learning · 
 - 🔨 I like building: APIs with FastAPI and React frontends on top of LLMs
 - 🎯 Open to: **6-month internship** and **full-time AI roles**
-- 📫 Reach me: ksavreet28@gmail.com
+- 📫 Reach me: ksavreet28@gmail.com 
 
 ---
 
@@ -61,9 +61,9 @@ I enjoy building practical AI applications, from RAG pipelines to AI agents and 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savreetkaur28)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksavreet28@gmail.com)
 
----
 
-> *"The best way to learn is to build."*
+
+
 
 
 <!--
